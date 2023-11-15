@@ -1,0 +1,182 @@
+customerID,Last Name,First Name,Age,Gender,Profession,Email,Phone,City,Address,Annual_Income,Registration_Date,Spending_Score,Work_Experience,Is_Married,Family_Size
+1,Riley,Jose,79.0,Male,,elam@example.org,,,"12160 Elizabeth Turnpike Apt. 925
+Lake Andrewview, KS 18740",173685.0,2023-01-30,42.0,23.0,True,
+2,Nguyen,Sabrina,19.0,Undisclosed,Equality and diversity officer,porterchristina@example.net,(664)649-1796,,"864 Martin Harbors
+Lake Ryanmouth, MD 48267",181793.0,2023-06-30,40.0,21.0,False,4.0
+3,Reed,Jonathan,84.0,Female,Consulting civil engineer,,,Fryeshire,"61489 Amanda Run
+Rachelland, WV 96406",36451.0,2023-11-03,44.0,24.0,True,
+4,Santos,Chad,20.0,Undisclosed,Dentist,jeremy99@example.net,+1-730-550-5913x687,South Jamesborough,"52740 Gerald Tunnel
+Port Sarah, OK 52844",137414.0,,17.0,,True,7.0
+5,Wilson,Christine,74.0,Male,Printmaker,jennifer60@example.com,302.645.4338x62617,Sharonbury,,31425.0,2023-02-04,69.0,1.0,True,
+6,Bailey,Daniel,40.0,Undisclosed,"Surveyor, hydrographic",davidchambers@example.org,,East Francis,,61527.0,2023-07-23,32.0,13.0,False,2.0
+7,Rodriguez,Meagan,43.0,Male,Research scientist (life sciences),castilloalicia@example.org,,Kennedymouth,"61085 Jasmine Orchard Apt. 795
+Chadborough, FM 63516",185576.0,,9.0,,True,7.0
+8,Romero,Larry,,Female,"Production designer, theatre/television/film",nkennedy@example.net,+1-466-265-7655x7959,Anthonyberg,"3676 Tara Greens Apt. 796
+Marshallton, MD 92120",73164.0,,41.0,16.0,False,6.0
+9,Black,Lisa,59.0,Female,Emergency planning/management officer,jacksonpatrick@example.net,(344)910-6869x6560,Lake Sarahside,,146093.0,2023-09-03,41.0,21.0,True,5.0
+10,Phelps,Matthew,67.0,Female,Risk manager,fcarter@example.com,,Snyderburgh,"USCGC Richardson
+FPO AE 40035",158581.0,2023-05-07,30.0,30.0,False,9.0
+11,Morales,Brianna,68.0,Male,Brewing technologist,,,Conwaymouth,"594 Megan Streets Apt. 375
+Port Courtneyhaven, GU 76313",152959.0,,24.0,2.0,False,8.0
+12,Olson,Alexandria,87.0,Female,,victoriaspears@example.com,,Tammyhaven,"4917 Nina Road
+Ericstad, MP 85516",24471.0,2023-01-14,61.0,16.0,False,4.0
+13,Cooper,Kimberly,57.0,Female,Chartered management accountant,angelabowen@example.com,920-976-3600x6562,,"PSC 8458, Box 0079
+APO AA 63209",157932.0,2023-07-03,42.0,,False,4.0
+14,Nichols,Tiffany,70.0,Male,"Psychologist, counselling",thomasjohnson@example.net,(509)332-1478x27327,Leonardfurt,"494 Wiggins Junctions
+Meyersfort, NH 17088",97089.0,2023-05-29,70.0,21.0,False,
+15,Fox,Belinda,85.0,Female,"Designer, blown glass/stained glass",erikabrown@example.com,001-356-784-8906,Jessicafurt,"USS Mendez
+FPO AP 25803",71605.0,2023-10-31,45.0,14.0,False,
+16,Garner,Amber,71.0,Male,Museum/gallery curator,vincentharvey@example.org,(657)233-5579x4677,South Melissaton,"360 Justin Lane
+East Michaelmouth, MI 18456",177007.0,2023-06-09,,23.0,True,4.0
+17,Shelton,Julia,29.0,Male,Medical sales representative,marciatravis@example.org,,Lake Tiffanyborough,,,2023-01-22,80.0,22.0,False,1.0
+18,Anderson,Emily,19.0,Female,Waste management officer,qweber@example.com,712.440.5940,North Joy,"20853 Stephen Common Suite 666
+Shermanview, HI 27317",24869.0,2023-04-07,20.0,,False,1.0
+19,Perry,Mary,79.0,Undisclosed,"Teacher, primary school",phillipsstephanie@example.org,,Port John,"803 Daniel Pines Apt. 580
+Loganside, PW 77873",186565.0,2022-11-18,78.0,16.0,,6.0
+20,Jones,Spencer,67.0,Undisclosed,"Scientist, product/process development",mcclurederrick@example.net,,South Katherinetown,,,2023-01-21,2.0,20.0,False,1.0
+21,Mcgee,Elizabeth,81.0,Male,"Librarian, academic",jgarrison@example.org,(380)915-7746,North Brad,"029 Mills Shoals
+Zimmermanburgh, PA 53589",,,63.0,9.0,False,2.0
+22,Rivera,Samuel,79.0,Female,"Designer, furniture",jonathankent@example.com,(826)943-5325x71268,North Nathan,"66893 Berry Crossroad
+Connieville, GA 02787",184001.0,2022-12-22,22.0,,True,8.0
+23,Weaver,Sara,49.0,Male,Estate agent,jenna65@example.com,998-314-5502x87025,Amandaport,"043 Kiara Meadows
+Garretthaven, AS 20699",,2023-10-31,93.0,20.0,False,5.0
+24,Perez,Aaron,,Undisclosed,Counselling psychologist,chelsea55@example.net,+1-524-682-1735,North Sophia,"333 Robert Estates
+Maloneborough, CO 81500",182338.0,2023-02-01,31.0,14.0,False,7.0
+25,Lewis,Katherine,49.0,Male,,cshaw@example.org,543.915.1809,Wilsonmouth,,57784.0,,80.0,3.0,True,9.0
+26,Barker,Erin,50.0,Female,,martinjoseph@example.net,,North Erinview,"8336 Figueroa Vista Apt. 695
+Priceside, TX 48969",35173.0,2023-10-11,3.0,22.0,True,2.0
+27,James,Kathleen,53.0,Female,Theatre manager,johnprince@example.org,751.245.7315x87730,Hicksmouth,"55368 Klein River Apt. 725
+Taylorbury, MH 54608",115973.0,,83.0,17.0,,5.0
+28,Arnold,Hayley,21.0,Female,Public relations officer,robinbell@example.org,001-632-912-0866x683,Michaelborough,"45841 Bailey Key
+Pearsonmouth, NY 36817",99884.0,2023-07-31,85.0,9.0,False,10.0
+29,Green,Michael,81.0,Male,Industrial/product designer,alexis57@example.net,+1-392-331-4447x8364,West Savannahfort,,154764.0,2023-03-01,97.0,3.0,False,4.0
+30,Johnson,Linda,88.0,Male,Furniture conservator/restorer,morganfrazier@example.net,(602)236-6014x0729,New Jennifertown,"983 Dustin Point
+North Rebecca, NJ 58065",121292.0,2023-09-03,50.0,13.0,True,
+31,Allen,Charles,81.0,Male,Location manager,xmcintosh@example.com,236.242.1160,North Evan,"522 Cox Freeway Suite 641
+West Emily, PR 13459",145337.0,2023-08-25,100.0,26.0,True,9.0
+32,Wells,Phillip,81.0,Female,Community arts worker,louis53@example.org,511.435.2095x406,Lawsonport,"94966 Hayes Square Suite 932
+South Tara, MH 25064",,2023-01-25,88.0,1.0,True,
+33,Poole,Matthew,,Undisclosed,Race relations officer,martinezdonald@example.com,+1-528-710-1591x3606,Webbfort,,39806.0,2023-09-13,66.0,11.0,False,7.0
+34,Butler,Sharon,78.0,Male,Technical brewer,astephens@example.com,,,"943 Watson Port
+New Melissa, CT 05890",70104.0,,43.0,,True,9.0
+35,Casey,Ryan,20.0,Female,"Engineer, civil (consulting)",lisa61@example.org,236.334.7550x142,,"8789 Cory Dale Suite 235
+West Christinaton, VT 28444",45749.0,2023-10-23,60.0,17.0,False,8.0
+36,Johnson,Alexis,30.0,Undisclosed,Hospital doctor,wilcoxmichael@example.org,(328)483-5481x08149,Williamsmouth,,186847.0,2023-09-17,96.0,24.0,,1.0
+37,Jones,Mercedes,47.0,Undisclosed,Dancer,robert40@example.org,,Pricestad,"8936 Stokes Mill
+South Cory, IN 25593",156098.0,2022-11-22,19.0,28.0,True,
+38,Fletcher,David,87.0,Male,Orthoptist,petersbenjamin@example.com,+1-694-774-1466x70896,Gardnermouth,,169988.0,2023-10-07,10.0,12.0,True,3.0
+39,Combs,Adrienne,72.0,Undisclosed,,jennifertorres@example.net,,New Markview,"3717 Boone Groves
+South Nathaniel, TN 89803",180179.0,2023-08-07,97.0,25.0,False,10.0
+40,Randolph,Breanna,56.0,Undisclosed,"Nurse, adult",vaughankimberly@example.com,,Millerchester,"PSC 7814, Box 3369
+APO AE 03599",195992.0,,66.0,,,9.0
+41,Pope,James,36.0,Male,Field trials officer,svalencia@example.net,663-697-0979x3007,South Adrian,"7839 Price Cape
+West Johnberg, PR 22674",169922.0,2022-11-26,,20.0,True,
+42,Adams,Joseph,45.0,Female,"Social research officer, government",gjackson@example.org,001-925-434-7070,Michellefurt,"3706 Amy Underpass
+North Juliafort, CO 79917",,2023-03-17,48.0,15.0,False,3.0
+43,Davidson,Christopher,91.0,Undisclosed,Market researcher,robinsonkatie@example.net,+1-973-516-8459x43207,Wrightmouth,,196889.0,2023-05-23,88.0,7.0,True,1.0
+44,Nelson,Carrie,53.0,Female,"Physicist, medical",bwilliams@example.com,,Nicholashaven,,77959.0,2023-07-24,95.0,9.0,True,3.0
+45,Schneider,Anthony,50.0,Female,"Engineer, petroleum",burtonmatthew@example.com,(353)438-0100x6593,Millerhaven,"3717 Lang Plaza Suite 859
+Fullerville, SD 34027",21774.0,2023-01-18,98.0,5.0,True,5.0
+46,Perry,Cathy,71.0,Undisclosed,Tourism officer,lawsonamber@example.org,001-943-613-4372x2700,Natashaville,"574 Mayer Shores
+South Jenniferville, KS 00924",73954.0,2023-03-24,93.0,5.0,True,5.0
+47,Schroeder,Lisa,23.0,Male,,rachael44@example.net,(662)946-3517,Brittanyburgh,"680 Kayla Stravenue Suite 600
+Port Elizabethchester, NJ 57586",185615.0,2023-02-09,35.0,10.0,True,2.0
+48,Preston,Eric,35.0,Male,Medical sales representative,fmathis@example.net,,,"460 Cantu Curve
+Newmanmouth, AL 56181",31716.0,2023-10-29,40.0,27.0,False,9.0
+49,Castaneda,Amber,93.0,Undisclosed,"Merchandiser, retail",eric78@example.com,,,"36780 Paul Cove
+North Jennifer, WI 58209",27505.0,,38.0,9.0,False,8.0
+50,Martinez,Aaron,51.0,Male,"Embryologist, clinical",jessica48@example.net,528.652.1116,Stevenport,"Unit 9259 Box 6393
+DPO AE 95917",63666.0,2022-12-19,66.0,14.0,False,6.0
+51,Miranda,Patty,46.0,Female,Private music teacher,vhensley@example.net,,Bryantton,"568 Jennifer Branch
+Danielfurt, NY 34672",76093.0,2023-07-06,,20.0,True,1.0
+52,Trevino,Kimberly,20.0,Male,"Scientist, biomedical",patrickgregory@example.com,(827)321-3075x131,Walkermouth,"1739 Sanchez Summit Suite 210
+East Patrick, NV 47622",101538.0,2023-10-26,53.0,1.0,False,8.0
+53,Norton,Amy,27.0,Undisclosed,Chief Marketing Officer,,+1-377-284-3262,North Pamela,"PSC 6113, Box 5071
+APO AP 12107",,2023-09-02,8.0,16.0,,5.0
+54,Bell,Haley,87.0,Female,Chartered legal executive (England and Wales),mckenzie35@example.net,,Williamsstad,"1862 Green Ridges
+Brittanyland, MD 51568",195702.0,,44.0,13.0,False,8.0
+55,Byrd,Tyler,21.0,Male,,wellsalexander@example.org,(409)447-3356,West Jade,"6752 Brenda Spurs Apt. 829
+Lake Michelle, IA 14371",150673.0,2023-05-03,94.0,6.0,True,2.0
+56,Harper,Cindy,71.0,Female,"Therapist, nutritional",,001-629-473-1766,Diamondberg,,141956.0,2023-07-09,71.0,28.0,True,10.0
+57,Noble,Brian,65.0,Female,Garment/textile technologist,nancy20@example.com,(917)342-5644,West Shannon,"69221 Luis Lake
+North William, AS 96365",183930.0,,10.0,13.0,False,8.0
+58,Mercado,Alexis,51.0,Undisclosed,IT trainer,nharrell@example.net,001-716-203-7759x25044,North Sarahborough,,105691.0,2023-03-14,19.0,11.0,True,
+59,Chambers,John,55.0,Male,Dancer,,(796)677-0196x661,North Ryanport,"21579 Parks Squares
+North Ronald, SC 35157",167611.0,2022-12-23,22.0,9.0,True,5.0
+60,Lyons,Brittney,61.0,Female,,kathy75@example.org,,Port Barbaraberg,,29091.0,2023-07-07,18.0,28.0,True,7.0
+61,Ritter,Victor,18.0,Male,Transport planner,jessicajackson@example.org,,New Brandonview,"87861 Herrera Crest Apt. 497
+Port Jessebury, FL 08728",106843.0,2023-05-20,,27.0,True,2.0
+62,Cox,Manuel,18.0,Male,Passenger transport manager,vfisher@example.com,676.876.7195,West Mariafurt,"3060 Clark Locks Suite 381
+Martinhaven, MH 28617",63443.0,2023-05-05,42.0,24.0,True,8.0
+63,Chaney,Michele,33.0,Female,Hydrographic surveyor,ljohnson@example.org,(901)707-9182x2008,Ramirezmouth,"USCGC Bryant
+FPO AE 18154",164774.0,2023-09-16,11.0,1.0,False,8.0
+64,Wilson,Abigail,63.0,Male,"Programmer, systems",luceroscott@example.com,,South Lori,"USS Taylor
+FPO AA 09156",107955.0,2023-03-26,14.0,5.0,True,4.0
+65,Bryant,Nicolas,81.0,Male,Ranger/warden,meganpena@example.net,641.527.9474,West Jennifer,"Unit 2463 Box 5560
+DPO AA 59014",155893.0,,86.0,12.0,,9.0
+66,Gilbert,Glenn,64.0,Female,Quarry manager,joseph03@example.net,382-604-1299x506,,"9375 Smith Harbors Apt. 359
+Wagnerchester, PR 60996",117744.0,2022-11-30,,7.0,True,4.0
+67,Boyd,Paula,37.0,Undisclosed,Public relations account executive,,001-847-986-9736x407,West Sheenaville,"60976 David Unions Suite 448
+East Blake, VA 32391",175169.0,2023-09-01,4.0,22.0,False,1.0
+68,Stark,Jeffrey,68.0,Male,Seismic interpreter,bradleyweber@example.com,468.452.5527x106,Mullinsbury,"865 Murphy Vista Suite 549
+Lake Marytown, OH 81067",108660.0,2023-01-15,75.0,23.0,False,1.0
+69,Johnson,Jose,31.0,Male,Field trials officer,glam@example.net,,North Marvinville,"765 Mcintosh Club
+Jamesmouth, AR 41102",162869.0,2023-09-18,99.0,25.0,True,2.0
+70,Watkins,Rebecca,35.0,Female,"Surveyor, insurance",morganerica@example.org,001-385-365-6409x7669,Joannachester,,158508.0,2023-05-07,52.0,19.0,False,1.0
+71,Baldwin,Paul,43.0,Female,Tourist information centre manager,martinezian@example.com,(571)449-7549x082,East Nathanberg,"438 Green Rue
+West Garymouth, MS 71597",55980.0,2023-01-20,76.0,9.0,True,8.0
+72,Holt,Austin,77.0,Female,Psychotherapist,david00@example.com,001-567-715-8949x414,Dennisfort,"16388 Duncan Views
+Brianstad, IA 98846",81561.0,2023-06-29,90.0,22.0,True,10.0
+73,Barrett,Austin,51.0,Undisclosed,Waste management officer,heatheranderson@example.net,566.571.4075x29619,North Vicki,"PSC 9789, Box 7613
+APO AE 46524",186228.0,2023-10-20,82.0,14.0,True,7.0
+74,Mccann,Jonathan,25.0,Female,Logistics and distribution manager,freygabriel@example.com,486-395-7943,,"424 Grant Harbors
+Camposfort, NM 77074",93392.0,2023-04-25,90.0,21.0,False,3.0
+75,James,James,47.0,Undisclosed,Chartered accountant,,,Port Mike,"777 Samantha Roads Apt. 886
+Port Christinatown, NE 88214",,2023-03-13,35.0,10.0,True,4.0
+76,Hodges,Kyle,60.0,Male,Facilities manager,davidjackson@example.com,814-372-8046x926,North Melissa,"292 Wilson Walks
+Rodneyland, MA 96468",44351.0,2023-08-08,3.0,0.0,,2.0
+77,Benson,Olivia,90.0,Male,,englishbryan@example.org,682.293.1932,West Christopherside,"685 Vasquez Isle Apt. 708
+Port Michael, MI 48777",161209.0,2023-02-21,47.0,16.0,True,5.0
+78,Page,Jennifer,79.0,Undisclosed,Aid worker,,001-345-234-0720x85259,West Rhonda,"7009 Sutton Squares
+Port Lindaland, MT 59351",,2023-07-28,63.0,26.0,False,7.0
+79,Reid,Shelby,81.0,Female,,timothy23@example.com,(669)585-6326x18155,,"29534 Christopher Isle
+Rogerbury, PA 13542",34901.0,2023-02-02,44.0,,True,
+80,Calhoun,Tyler,68.0,Female,Geophysicist/field seismologist,,(734)622-1087x90609,Michaeltown,"947 Baker Freeway
+West Josephmouth, OK 75753",162845.0,2023-08-27,29.0,,False,2.0
+81,Martinez,Mark,73.0,Undisclosed,Building surveyor,timothy44@example.com,(220)667-5384x125,,"PSC 2181, Box 0533
+APO AP 41439",,2022-11-21,25.0,25.0,True,9.0
+82,Spencer,Ryan,,Undisclosed,,meyerdanielle@example.com,,,"USCGC Ruiz
+FPO AA 15560",128160.0,2023-09-20,78.0,18.0,False,10.0
+83,Miller,Jessica,,Female,Community development worker,porterjames@example.org,,Melissamouth,"7616 Brooks Views Apt. 817
+South Christian, KS 20406",157825.0,2023-01-01,,,False,10.0
+84,Stout,Mason,44.0,Male,Actor,valerie14@example.org,,Larsonstad,"6392 Velez Forges Suite 309
+West Chadshire, OK 73105",143540.0,,49.0,9.0,False,8.0
+85,Fernandez,Janet,59.0,Male,Multimedia programmer,murphyjames@example.org,001-671-619-3037,,"177 Navarro Isle Apt. 992
+South Teresaberg, WV 70929",41918.0,2023-07-05,30.0,15.0,False,6.0
+86,Trujillo,Jesus,36.0,Female,,james54@example.net,001-417-427-6301x1363,Perryhaven,"USS Williams
+FPO AE 10288",159308.0,2022-11-22,12.0,27.0,,9.0
+87,Hart,Patricia,76.0,Male,Dancer,gmiller@example.org,988-903-8152x7322,East Jacob,"3022 Johnson Cliff Apt. 237
+Emilyfurt, TN 43022",70549.0,2023-01-17,63.0,12.0,False,9.0
+88,Garcia,Haley,82.0,Male,"Pharmacist, hospital",thomasmichael@example.net,+1-201-423-3076x84536,New Matthewview,"5504 Nathan Greens Apt. 465
+Cabreramouth, OH 52153",117914.0,2023-04-28,94.0,18.0,,9.0
+89,Castillo,Michael,,Female,Adult nurse,joshuabaldwin@example.com,,Keithbury,"2049 Jason Loaf Suite 966
+Millerton, IA 73745",157783.0,2023-10-10,23.0,16.0,True,4.0
+90,Cooper,Christopher,46.0,Undisclosed,Marine scientist,booththomas@example.org,3353134398,Port Hannah,"0713 Brown Lock Apt. 534
+Howeburgh, LA 55338",189834.0,2023-03-27,74.0,2.0,False,9.0
+91,Hester,Christina,27.0,Undisclosed,Physiotherapist,uadams@example.org,(324)560-4525x123,Andersonchester,,29398.0,2023-10-21,97.0,15.0,False,3.0
+92,Weaver,Gregory,23.0,Male,,fjohnson@example.com,676-687-5266x1527,Katherineview,"67221 Danielle Rapids Apt. 171
+Bryanton, MI 31337",169123.0,2023-01-16,25.0,27.0,False,5.0
+93,Perez,Taylor,,Female,"Teacher, primary school",kenneth61@example.net,,West Lindatown,"099 Alvarez Forges
+Lake Jenniferhaven, IN 37842",105181.0,,91.0,2.0,,8.0
+94,Rojas,Ivan,,Male,"Civil engineer, consulting",grantpatrick@example.net,(387)927-0184,Johnmouth,"799 Katherine Flats
+West Kenneth, NM 10533",35706.0,2022-12-19,5.0,7.0,,9.0
+95,White,Lori,,Male,"Chemist, analytical",annetteporter@example.com,369-389-2213x207,West Kristinland,"165 Dawson Crossing Apt. 282
+Lake Scottport, MA 63358",94040.0,2023-10-10,84.0,29.0,True,
+96,Hatfield,Steven,59.0,Undisclosed,,nicolebrown@example.com,001-715-475-8738x010,North Gloriaberg,"269 Laura Motorway Apt. 269
+New Hannahbury, AS 85729",69519.0,2023-05-05,78.0,29.0,True,4.0
+97,Ward,Katherine,64.0,Male,"Administrator, charities/voluntary organisations",warrenjennifer@example.org,6202807148,Careychester,,126240.0,2023-10-09,41.0,5.0,,1.0
+98,Snow,Tammy,,Undisclosed,Planning and development surveyor,williamfriedman@example.org,277.409.2419,Ruthside,"201 Landry Corners Suite 098
+Sethmouth, MD 83028",110108.0,2023-03-09,22.0,20.0,False,9.0
+99,Lane,John,27.0,Female,Veterinary surgeon,,948-676-4763x74460,Bridgesstad,"0513 Makayla Station
+North Christopherton, AL 74577",141992.0,,50.0,21.0,True,1.0
+100,Duarte,Rachel,57.0,Male,,christopher62@example.org,(258)545-5772x8132,New Codyburgh,,31867.0,2023-07-03,20.0,2.0,False,5.0
